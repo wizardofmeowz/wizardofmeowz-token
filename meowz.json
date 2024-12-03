@@ -1,7 +1,7 @@
 {
     "name": "The Wizard Of Meowz",
     "symbol": "MEOWZ",
-    "description": "A cute and wise wizard cat token bringing magic and memes to the Solana blockchain! 🧙‍♂️🐱✨ Mint authority has been removed - supply is forever fixed! 🔒",
+    "description": "A cute and wise wizard cat token bringing magic and memes to the Solana blockchain! 🧙‍♂️🐱✨",
     "image": "https://raw.githubusercontent.com/wizardofmeowz/wizardofmeowz-token/blob/main/meowzz.png",
     "token_info": {
         "decimals": 9,
